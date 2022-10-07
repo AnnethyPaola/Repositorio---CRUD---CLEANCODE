@@ -1,0 +1,15 @@
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\bin\Debug\net6.0\CRUDI2.exe
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\bin\Debug\net6.0\CRUDI2.deps.json
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\bin\Debug\net6.0\CRUDI2.runtimeconfig.json
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\bin\Debug\net6.0\CRUDI2.dll
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\bin\Debug\net6.0\CRUDI2.pdb
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.csproj.AssemblyReference.cache
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.AssemblyInfoInputs.cache
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.AssemblyInfo.cs
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.csproj.CoreCompileInputs.cache
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.dll
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\refint\CRUDI2.dll
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.pdb
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\CRUDI2.genruntimeconfig.cache
+C:\Users\Annethy\OneDrive\Escritorio\c#\P2\CRUDI2\CRUDI2\obj\Debug\net6.0\ref\CRUDI2.dll
